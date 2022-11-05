@@ -1,0 +1,21 @@
+.bg{
+    background-image: url('/public/assets/image/R.jfif');
+    height: 100vh;
+    background-size: cover;
+   
+}
+.Noxe{
+color: rgb(194, 154, 154);
+font-size: 50px;
+font-weight: 500;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.right{
+    width: 590px;
+  margin-top: 53px;
+  margin-left: 500px;
+    font-size: 27px;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+   
+}
